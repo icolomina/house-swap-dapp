@@ -6,6 +6,11 @@
 /out-tsc
 /bazel-out
 
+# Types
+/src/app/types/
+
+/src/assets/house_swap.json
+
 # Node
 /node_modules
 npm-debug.log
